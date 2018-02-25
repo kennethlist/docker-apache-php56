@@ -16,6 +16,7 @@ RUN apt-get update && \
       php5-pgsql \
       php5-curl \
       php5-xdebug \
+      php5-mcrypt \
       graphviz \
       ssmtp
 
